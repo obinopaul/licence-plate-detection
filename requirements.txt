@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+opencv-python
+cvzone
+torch
+torchvision
+ultralytics[yolo]  # This will install the YOLOv5 model from Ultralytics
